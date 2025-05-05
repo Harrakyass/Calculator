@@ -25,9 +25,12 @@ Build and run the application:
 
     dotnet run
 
-Screenshot
 
-[./calculator/screenshot.png]
+
+## Screenshot
+
+![Screenshot](./calculator/screenshot.png)
+
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 License
