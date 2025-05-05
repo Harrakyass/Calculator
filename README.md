@@ -8,7 +8,7 @@ Responsive design for various screen sizes.
 Error handling for invalid inputs (e.g., division by zero).
 
 Demo
-[screeshot.png]
+(./calculatrice/screeshot.png)
 Getting Started
 Prerequisites
 
