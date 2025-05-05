@@ -1,0 +1,20 @@
+C:\Users\Client\Desktop\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\Client\Desktop\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\Client\Desktop\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\Client\Desktop\Calculatrice\obj\Debug\Calculatrice.csproj.AssemblyReference.cache
+C:\Users\Client\Desktop\Calculatrice\obj\Debug\Calculatrice.Form1.resources
+C:\Users\Client\Desktop\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+C:\Users\Client\Desktop\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.cache
+C:\Users\Client\Desktop\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\Client\Desktop\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\Client\Desktop\Calculatrice\obj\Debug\Calculatrice.pdb
+C:\Users\Client\Desktop\Cours\2ème année\2ème semestre\PROGRAMMATION EVENEMENTIELLE\Program\Calculatrice\obj\Debug\Calculatrice.csproj.AssemblyReference.cache
+C:\Users\Client\Desktop\Cours\2ème année\2ème semestre\PROGRAMMATION EVENEMENTIELLE\Program\Calculatrice\obj\Debug\Calculatrice.Form1.resources
+C:\Users\Client\Desktop\Cours\2ème année\2ème semestre\PROGRAMMATION EVENEMENTIELLE\Program\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.cache
+C:\Users\Client\Desktop\Cours\2ème année\2ème semestre\PROGRAMMATION EVENEMENTIELLE\Program\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\Client\Desktop\Cours\2ème année\2ème semestre\PROGRAMMATION EVENEMENTIELLE\Program\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\Client\Desktop\Cours\2ème année\2ème semestre\PROGRAMMATION EVENEMENTIELLE\Program\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\Client\Desktop\Cours\2ème année\2ème semestre\PROGRAMMATION EVENEMENTIELLE\Program\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+C:\Users\Client\Desktop\Cours\2ème année\2ème semestre\PROGRAMMATION EVENEMENTIELLE\Program\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\Client\Desktop\Cours\2ème année\2ème semestre\PROGRAMMATION EVENEMENTIELLE\Program\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\Client\Desktop\Cours\2ème année\2ème semestre\PROGRAMMATION EVENEMENTIELLE\Program\Calculatrice\obj\Debug\Calculatrice.pdb
